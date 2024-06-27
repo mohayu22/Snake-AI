@@ -1,3 +1,3 @@
 # Snake-AI
 
-![SnakeAI](./snakeAI.webm)
+[![SnakeAI](./snakeAI.webm)](./snakeAI.webm)
